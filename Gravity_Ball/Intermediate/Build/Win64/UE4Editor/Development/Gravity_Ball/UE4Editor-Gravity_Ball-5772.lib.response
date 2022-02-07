@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Gravity_Ball-5772.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\Gravity_BallEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\Gravity_Ball.cpp.obj"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\UExplosion_Projectile.cpp.obj"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\UFirstPersonCharacter.cpp.obj"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\UFloatingBullet.cpp.obj"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\UGravity_Projectile.cpp.obj"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\Gravity_Ball.init.gen.cpp.obj"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\UExplosion_Projectile.gen.cpp.obj"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\UFirstPersonCharacter.gen.cpp.obj"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\UFloatingBullet.gen.cpp.obj"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\UGravity_Projectile.gen.cpp.obj"
+"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\Default.rc2.res"
+/OUT:"C:\Users\aless\OneDrive\Desktop\Uni Work\Third Year\CMP302\Gravity_Ball\Intermediate\Build\Win64\UE4Editor\Development\Gravity_Ball\UE4Editor-Gravity_Ball-5772.lib"
+/INCLUDE:IMPLEMENT_MODULE_Gravity_Ball

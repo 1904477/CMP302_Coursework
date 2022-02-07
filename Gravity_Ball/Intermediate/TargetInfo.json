@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Gravity_Ball",
+			"Path": "C:\\Users\\aless\\OneDrive\\Desktop\\Uni Work\\Third Year\\CMP302\\Gravity_Ball\\Source\\Gravity_Ball.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Gravity_BallEditor",
+			"Path": "C:\\Users\\aless\\OneDrive\\Desktop\\Uni Work\\Third Year\\CMP302\\Gravity_Ball\\Source\\Gravity_BallEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

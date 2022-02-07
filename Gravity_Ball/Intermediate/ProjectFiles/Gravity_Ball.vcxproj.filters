@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Gravity_Ball.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2B92C58F-A182-4858-95C3-5B7015A670E8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Gravity_Ball.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Gravity_BallEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AA47D1AE-1F21-43A7-8690-04868760E2AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Gravity_Ball">
+      <UniqueIdentifier>{21D972F6-1768-425A-B3C3-E69F858BF0C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Gravity_Ball\Gravity_Ball.Build.cs">
+      <Filter>Source\Gravity_Ball</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Gravity_Ball\Gravity_Ball.cpp">
+      <Filter>Source\Gravity_Ball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gravity_Ball\Gravity_Ball.h">
+      <Filter>Source\Gravity_Ball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gravity_Ball\UExplosion_Projectile.cpp">
+      <Filter>Source\Gravity_Ball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gravity_Ball\UExplosion_Projectile.h">
+      <Filter>Source\Gravity_Ball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gravity_Ball\UFirstPersonCharacter.cpp">
+      <Filter>Source\Gravity_Ball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gravity_Ball\UFirstPersonCharacter.h">
+      <Filter>Source\Gravity_Ball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gravity_Ball\UFloatingBullet.cpp">
+      <Filter>Source\Gravity_Ball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gravity_Ball\UFloatingBullet.h">
+      <Filter>Source\Gravity_Ball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Gravity_Ball\UGravity_Projectile.cpp">
+      <Filter>Source\Gravity_Ball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Gravity_Ball\UGravity_Projectile.h">
+      <Filter>Source\Gravity_Ball</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

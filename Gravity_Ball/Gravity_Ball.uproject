@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Gravity_Ball",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
